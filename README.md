@@ -119,7 +119,7 @@ git clone https://github.com/Leostruka/Nitgen_BiometricCRUD.git cd crud-biometri
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Leostruka/CRUD_Biometric?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Fingertech-Brasil/Nitgen_BiometricCRUD?tab=MIT-1-ov-file) file for details.
 
 ## Contributing
 
@@ -127,4 +127,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any questions or inquiries, please contact [leandro.sakae@hotmail.com](mailto:leandro.sakae@hotmail.com)
+For any questions or inquiries, please contact [suporte@fingertech.com.br](mailto:suporte@fingertech.com.br)
